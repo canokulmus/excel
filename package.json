@@ -1,0 +1,54 @@
+{
+  "name": "excel",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@jspreadsheet/parser": "^5.5.4",
+    "@jspreadsheet/react": "^11.9.4",
+    "@progress/kendo-licensing": "^1.3.5",
+    "@progress/kendo-react-excel-export": "^8.5.0",
+    "@progress/kendo-react-spreadsheet": "^8.5.0",
+    "@progress/kendo-theme-default": "^9.1.0",
+    "@syncfusion/ej2-base": "^27.1.52",
+    "@syncfusion/ej2-dropdowns": "^27.1.52",
+    "@syncfusion/ej2-grids": "^27.1.52",
+    "@syncfusion/ej2-navigations": "^27.1.52",
+    "@syncfusion/ej2-react-spreadsheet": "^27.1.52",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.113",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
